@@ -1,0 +1,1 @@
+Test app where users can publish small posts built using basic scaffolding for learning purposes.
